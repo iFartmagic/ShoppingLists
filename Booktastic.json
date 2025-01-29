@@ -1,11 +1,7 @@
 {
 
-"Blue": [
-	"Kreludan Cookie Cookbook"
-
-],
-
 "Pink": [ 
+	
 	"Secrets of the Universe",
 	"Space Station Schematics",
 	"Alien Aisha Invasion",
@@ -14,10 +10,12 @@
 	"Guide to the Neocola Machine",
 	"It Came From Kreludor",
 	"Half Moon Pop-Up Book",
-	"Kreludor Mining Corridor Maps"
+	"Kreludor Mining Corridor Maps",
+	"Kreludan Cookie Cookbook"
 ],
 
 "Green": [ 
+	
 	"The Space Ace",
 	"Kreludan Home Decorating",
 	"Lennies in Space",
@@ -28,6 +26,7 @@
 ],
 
 "Yellow": [
+	
 	"Myths and Legends of Alien Aishas",
 	"Get Organised Stay Organised",
 	"Secrets of Sloth",
@@ -43,6 +42,7 @@
 ],
 
 "Aqua": [
+	
 	"Build Your Own Telescope",
 	"Binary Stars and You",
 	"Most Memorable Dr Sloth Quotes",
@@ -52,6 +52,7 @@
 	"The Sun and You",
 	"Dont Push That Button!",
 	"Computing the Kreludan Way"
+
 ]
 }
 	
